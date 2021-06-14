@@ -1,0 +1,35 @@
+- choices: make an application, code generation
+	- decides if text is numeric
+	- spatiates text for terminal
+	- keeps showing options until user exits
+- class: make a class, code generation
+	- getters, setters
+	- init, str
+	- constructor
+- file: library version, get / set / clear / add to files, extract extension and filename, use system to:
+	- determine if filepath if for a file / folder
+	- remove files
+	- make folders
+	- get the path
+	- change folder
+- file counter: library for counter of a file
+- get set data: library for getting / seting terminal data ( arrays, sets ... )
+- gmtry: library for gmtry:
+	- calculate distance
+	- classes for: Point, Line and Shape ( poligon, calculates area too )
+	- determina nature of triangle, area with heron
+- graph: class for graphs
+- mathematics: library for mathematics:
+	- trivial functions ( pos / neg, prime ... )
+	- digits, their sum ...
+	- class for interval ( can be closed / open, or any combination of those )
+- round: library for rounding numbers to integers ( asc / desc )
+- sort: library for sorting ( asc / desc )
+- sql: sql database terminal client:
+	- create / drop databases, tables
+	- insert / update / delete table row
+	- update column datatype for tables
+	- execute custom sql
+	- add / drop / rname table column
+- variable_name: - get the name of a variable
+- variable_type: - get the type of a variable

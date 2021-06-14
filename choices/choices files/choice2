@@ -1,0 +1,14 @@
+
+
+	if ( choice == "exit" ):
+		print " Exited.\n";
+
+	return choice
+
+print "\033c",
+show_choices()
+while ( get_choice() != "exit" ):
+	print "\033c",
+	show_choices()
+
+
