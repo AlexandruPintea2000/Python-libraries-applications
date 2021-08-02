@@ -1,0 +1,24 @@
+[ atr ]
+{
+	attr: val;	attr: val;	attr: val;	attr: val;
+	attr: val;	attr: val;	attr: val;	attr: val;
+	attr: val;	attr: val;	attr: val;	attr: val;
+}
+
+[ atr1 ]
+{
+	attr: val;	attr: val;	attr: val;	attr: val;
+}
+
+.cls
+{
+	attr: val;	attr: val;	attr: val;	attr: val;	
+	attr: val;	attr: val;	attr: val;	attr: val;	
+	attr: val;	attr: val;	attr: val;	attr: val;	
+}
+
+.cls1
+{
+	attr: val;	attr: val;	attr: val;	attr: val;	
+}
+
