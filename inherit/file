@@ -1,0 +1,19 @@
+atr
+{
+	attr: val_atr;
+	attr: val_atr;
+}
+
+atr1
+{
+	attr1: val1;
+	attr1: val1;
+}
+
+na: atr, atr1
+{
+	attr: val;
+	attr: val;
+	attr: val;
+	attr: val;
+}
