@@ -1,0 +1,18 @@
+[ atr = atr ]
+{
+	attr: val_atr;	attr: val_atr;
+}
+
+[ atr = atr1 ]
+{
+	attr: val_atr;	attr: val_atr;	attr: val_atr;	attr: val_atr;
+	attr1: val1;	attr1: val1;
+}
+
+[ atr = na ]
+{
+	attr: val_atr;	attr: val_atr;	attr: val_atr;	attr: val_atr;	attr: val_atr;	attr: val_atr;
+	attr1: val1;	attr1: val1;	attr1: val1;	attr1: val1;
+	attr: val;	attr: val;	attr: val;	attr: val;
+}
+
